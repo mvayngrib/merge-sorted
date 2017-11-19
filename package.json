@@ -1,0 +1,25 @@
+{
+  "name": "merge-sorted",
+  "version": "1.0.0",
+  "description": "merge two sorted arrays using a comparator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "utility",
+    "array",
+    "combine",
+    "sort",
+    "merge",
+    "merge-sorted",
+    "merge-arrays",
+    "marge-sorted-arrays"
+  ],
+  "repository": "https://github.com/mvayngrib/merge-sorted",
+  "author": "Mark Vayngrib <mark@tradle.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
+}
